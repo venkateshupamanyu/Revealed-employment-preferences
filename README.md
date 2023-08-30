@@ -1,4 +1,7 @@
 # Revealed-employment-preferences
+While welfare schemes can serve as a valuable safety net, they may also give rise to unintended consequences which may not be fully captured during implementation. We study the impact of a 2008 debt waiver scheme in India on the employment outcomes of its beneficiaries. We observe that farmers who benefitted from the waiver tend to shift their labor away from agriculture and towards casual and wage employment. We suggest that credit constraints faced by the waiver beneficiaries could drive such a shift in employment preferences. We find that the shift towards casual employment helps beneficiaries maintain consumption levels in the face of negative shocks, meaning the alternative employment helps serve as a coping mechanism for the household. This tendency of waiver beneficiaries to shift away from agriculture shows the externalities associated with welfare programs on rural labor markets.
+
+
 Contains STATA codes for data cleaning and analysis
 
 1 - DW - Round 66 Consumption datasets.do
